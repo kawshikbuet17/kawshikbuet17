@@ -17,7 +17,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawshikbuet17&label=Profile%20views&color=0e75b6&style=flat" alt="kawshikbuet17" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
@@ -28,20 +28,18 @@
 
 <p align="left">
 
-<code><img height="50" src="assets/python-icon.svg"></code><code>
-<img height="50" src="assets/dj.svg"> </code>
+<code><img height="50" src="assets/python-icon.svg"></code>
+<code><img height="50" src="assets/dj.svg"> </code>
 <code> <img height="50" src="assets/jp.svg"> </code>
-
-<code> <img height="50" src="assets/git.svg"> </code>
-<code> <img height="50" src="assets/linux-ar21.svg"> </code>
-
-<code> <img height="50" src="assets/other/mysql-ar21.svg"> </code>
-
+<code> <img height="50" src="assets/java-4.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-
+<code> <img height="50" src="assets/git.svg"> </code>
+<code> <img height="50" src="assets/linux-ar21.svg"> </code>
+<code> <img height="50" src="assets/other/oracle-6.svg"> </code>
+<code> <img height="50" src="assets/bootstrap5.svg"> </code>
+<code> <img height="50" src="assets/html.svg"> </code>
 
 <hr>
   <p align="center">
