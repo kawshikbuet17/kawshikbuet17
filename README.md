@@ -37,7 +37,7 @@
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
 <code> <img height="50" src="assets/git.svg"> </code>
 <code> <img height="50" src="assets/linux-ar21.svg"> </code>
-<code> <img height="50" src="assets/other/oracle-6.svg"> </code>
+<code> <img height="50" src="assets/oracle-6.svg"> </code>
 <code> <img height="50" src="assets/bootstrap-5.svg"> </code>
 <code> <img height="50" src="assets/html.svg"> </code>
 
