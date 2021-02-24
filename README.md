@@ -38,7 +38,7 @@
 <code> <img height="50" src="assets/git.svg"> </code>
 <code> <img height="50" src="assets/linux-ar21.svg"> </code>
 <code> <img height="50" src="assets/other/oracle-6.svg"> </code>
-<code> <img height="50" src="assets/bootstrap5.svg"> </code>
+<code> <img height="50" src="assets/bootstrap-5.svg"> </code>
 <code> <img height="50" src="assets/html.svg"> </code>
 
 <hr>
