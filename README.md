@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kawshik Kumar Paul</h1>
+﻿<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kawshik Kumar Paul</h1>
 <h3 align="center">Student | Programmer  | Data Science Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kawshikbuet17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kawshik" height="30" width="40" /></a>
@@ -29,19 +29,18 @@
 <p align="left">
 
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code>
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
+<img height="50" src="assets/dj.svg"> </code>
+<code> <img height="50" src="assets/jp.svg"> </code>
+<code> <img height="50" src="assets/docker-ar21.svg"> </code>
+<code> <img height="50" src="assets/git.svg"> </code>
+<code> <img height="50" src="assets/linux-ar21.svg"> </code>
+<code> <img height="50" src="assets/other/apache_hadoop-ar21.svg"> </code>
+<code> <img height="50" src="assets/other/mongodb-ar21.svg"> </code>
+<code> <img height="50" src="assets/other/sqlite-ar21.svg"> </code>
+<code> <img height="50" src="assets/other/mysql-ar21.svg"> </code>
+<code> <img height="50" src="assets/other/postgresql-ar21.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-<code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
