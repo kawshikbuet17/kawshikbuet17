@@ -31,24 +31,17 @@
 <code><img height="50" src="assets/python-icon.svg"></code><code>
 <img height="50" src="assets/dj.svg"> </code>
 <code> <img height="50" src="assets/jp.svg"> </code>
-<code> <img height="50" src="assets/docker-ar21.svg"> </code>
+
 <code> <img height="50" src="assets/git.svg"> </code>
 <code> <img height="50" src="assets/linux-ar21.svg"> </code>
-<code> <img height="50" src="assets/other/apache_hadoop-ar21.svg"> </code>
-<code> <img height="50" src="assets/other/mongodb-ar21.svg"> </code>
-<code> <img height="50" src="assets/other/sqlite-ar21.svg"> </code>
+
 <code> <img height="50" src="assets/other/mysql-ar21.svg"> </code>
-<code> <img height="50" src="assets/other/postgresql-ar21.svg"> </code>
+
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
+
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-<code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
+
 
 <hr>
   <p align="center">
