@@ -28,7 +28,7 @@
 
 <p align="left">
 
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code>
+<code><img height="50" src="assets/python-icon.svg"></code><code>
 <img height="50" src="assets/dj.svg"> </code>
 <code> <img height="50" src="assets/jp.svg"> </code>
 <code> <img height="50" src="assets/docker-ar21.svg"> </code>
