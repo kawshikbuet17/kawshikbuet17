@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kawshik Kumar Paul</h1>
 <h3 align="center">Student | Programmer  | Data Science Enthusiast</h3>
 <p align="center">
@@ -24,7 +20,6 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
-
 
 ✔ I sometimes write articles on [medium.com](https://kawshikbuet17.medium.com) <br>
 ✔ Visit my  [Portfolio Website](https://kawshikbuet17.github.io/) to know more about me. <br>
