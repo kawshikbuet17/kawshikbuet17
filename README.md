@@ -26,7 +26,7 @@ Student | Programmer | Data Science Enthusiast</h3>
 * Database: Oracle, MySQL
 * Version Control: Git, GitHub
 * Others: Data Structures, Algorithms
-* Interests: Bioinformatics, Deep Learning
+* Interests: Bioinformatics, Machine Learning, Deep Learning
 
 <hr>
   <p align="center">
