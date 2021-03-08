@@ -31,7 +31,10 @@ Student | Programmer | Data Science Enthusiast</h3>
 <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> <i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawshikbuet17&show_icons=true&locale=en&layout=compact" alt="kawshikbuet17" /></p>
+<p>
+<img align="left" src="https://camo.githubusercontent.com/b1aac3ae1e5e9ec74b097d0d58507b3ec57a58e8fb1de869fd7e5bcbe1b92005/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d77617161722d313037" alt="kawshikbuet17" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshikbuet17" style="max-width:100%;">
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawshikbuet17&show_icons=true&locale=en&layout=compact" alt="kawshikbuet17" /> -->
+</p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kawshikbuet17&show_icons=true&locale=en" alt="kawshikbuet17" width="410" /></p>
 
