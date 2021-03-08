@@ -33,7 +33,7 @@ Student | Programmer | CS Major</h3>
 
 <b><h3>GitHub Stats</h3></b>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshikbuet17>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshikbuet17" />
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawshikbuet17&show_icons=true&locale=en&layout=compact" alt="kawshikbuet17" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kawshikbuet17&show_icons=true&locale=en" alt="kawshikbuet17" style="max-width:100%;" />
 </p>
