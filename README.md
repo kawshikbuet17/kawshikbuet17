@@ -36,7 +36,8 @@ Student | Programmer | Data Science Enthusiast</h3>
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawshikbuet17&show_icons=true&locale=en&layout=compact" alt="kawshikbuet17" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kawshikbuet17&show_icons=true&locale=en" alt="kawshikbuet17" style="max-width:100%;" />
 </p>
-<hr>
+<br>
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/kawshikbuet17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kawshik" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kawshik.paul.kkp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kawshik" height="30" width="40" /></a>
