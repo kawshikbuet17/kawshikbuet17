@@ -14,23 +14,24 @@ Student | Programmer | CS Major</h3>
 
 <h3><b>Talking about Personal Stuffs...</b></h3>
 
-✔ I sometimes write articles on [medium.com](https://kawshikbuet17.medium.com) <br>
+
 ✔ Visit my  [Portfolio Website](https://kawshikbuet17.github.io/) to know more about me. <br>
+✔ Check some of my photography on [500px.com](https://500px.com/kawshikbuet17) <br>
 
 <h3><b>Languages & Tools I Know...</b></h3>
 
 <p align="left">
 
-* Languages: C, C++, Java, Python, JavaScript, SQL, HTML
-* FrameWorks: Django, Bootstrap, JavaFX
-* Database: Oracle, MySQL
-* Version Control: Git, GitHub
-* Others: Data Structures, Algorithms
-* Interests: Bioinformatics, Machine Learning, Deep Learning
+* <b><u>Languages:</b></u> C, C++, Java, Python, JavaScript, SQL, HTML
+* <b><u>FrameWorks:</b></u> Django, Bootstrap, JavaFX
+* <b><u>Database:</b></u> Oracle, MySQL
+* <b><u>Version Control:</b></u> Git, GitHub
+* <b><u>Others:</b></u> Data Structures, Algorithms
+* <b><u>Interests:</b></u> Bioinformatics, Machine Learning, Deep Learning
 
 <hr>
-  <p align="center">
-<b><h3>GitHub Stats</h3></b></p>
+
+<b><h3>GitHub Stats</h3></b>
 <p>
 <img align="center" src="https://camo.githubusercontent.com/b1aac3ae1e5e9ec74b097d0d58507b3ec57a58e8fb1de869fd7e5bcbe1b92005/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d77617161722d313037" alt="kawshikbuet17" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshikbuet17" style="max-width:100%;">
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawshikbuet17&show_icons=true&locale=en&layout=compact" alt="kawshikbuet17" /> -->
@@ -38,6 +39,8 @@ Student | Programmer | CS Major</h3>
 </p>
 <br>
 <br>
+
+<b><h3>Stay Connected</h3></b>
 <p align="center">
 <a href="https://www.linkedin.com/in/kawshikbuet17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kawshik" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kawshik.paul.kkp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kawshik" height="30" width="40" /></a>
