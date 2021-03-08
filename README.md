@@ -22,12 +22,12 @@ Student | Programmer | CS Major</h3>
 
 <p align="left">
 
-* <b><u>Languages:</b></u> C, C++, Java, Python, JavaScript, SQL, HTML
-* <b><u>FrameWorks:</b></u> Django, Bootstrap, JavaFX
-* <b><u>Database:</b></u> Oracle, MySQL
-* <b><u>Version Control:</b></u> Git, GitHub
-* <b><u>Others:</b></u> Data Structures, Algorithms
-* <b><u>Interests:</b></u> Bioinformatics, Machine Learning, Deep Learning
+* <b><u>Languages:</b></u>  C, C++, Java, Python, JavaScript, SQL, HTML
+* <b><u>FrameWorks:</b></u>  Django, Bootstrap, JavaFX
+* <b><u>Database:</b></u>  Oracle, MySQL
+* <b><u>Version Control:</b></u>  Git, GitHub
+* <b><u>Others:</b></u>  Data Structures, Algorithms
+* <b><u>Interests:</b></u>  Bioinformatics, Machine Learning, Deep Learning
 
 <hr>
 
@@ -39,8 +39,8 @@ Student | Programmer | CS Major</h3>
 </p>
 <br>
 <br>
-
-<b><h3>Stay Connected</h3></b>
+<hr>
+<center><b><h3>Stay Connected</h3></b></center>
 <p align="center">
 <a href="https://www.linkedin.com/in/kawshikbuet17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kawshik" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kawshik.paul.kkp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kawshik" height="30" width="40" /></a>
